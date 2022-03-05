@@ -1,2 +1,0 @@
-#!/bin/bash
-in -s hello _hello chown -h vincent:staff _hello
