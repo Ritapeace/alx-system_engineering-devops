@@ -1,5 +1,5 @@
-
-n script that, uses the REST API, for a given employee ID,returns
+#!/usr/bin/python3
+"""Python script that, uses the REST API, for a given employee ID,returns
 information about his/her TODO list progress, and export data in the
 CSV format."""
 
